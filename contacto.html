@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Contacto</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Contacto</h1>
+
+<p>¿Tienes dudas, quieres adoptar o ser voluntario? Escríbenos</p>
+
+<section id="contacto">
+
+<form>
+
+<label for="nombre">Nombre *</label>
+<input type="text" id="nombre" name="nombre" required>
+
+<label for="apellidos">Apellidos *</label>
+<input type="text" id="apellidos" name="apellidos" required>
+
+<label for="ciudad">Ciudad *</label>
+<input type="text" id="ciudad" name="ciudad" required>
+
+<label for="correo">Correo electrónico *</label>
+<input type="email" id="correo" name="correo" required>
+
+<label for="telefono">Teléfono</label>
+<input type="tel" id="telefono" name="telefono">
+
+<label for="tipo">Tipo de consulta *</label>
+<select id="tipo" name="tipo" required>
+  <option value="">Selecciona una opción</option>
+  <option value="adopcion">Adopción</option>
+  <option value="donacion">Donación</option>
+  <option value="voluntariado">Voluntariado</option>
+  <option value="info">Información general</option>
+  <option value="otro">Otro</option>
+</select>
+
+<label for="mensaje">Mensaje *</label>
+<textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+
+<button type="submit" class="btn">Enviar mensaje</button>
+
+</form>
+
+<div class="contact-info">
+<h3>Información de contacto</h3>
+<p>contacto@patitasfelices.com</p>
+<p>+57 3157029947</p>
+
+<h3>Redes sociales</h3>
+<p>Facebook: Patitas Felices</p>
+<p>Instagram: @patitasfelices</p>
+<p>TikTok: @patitasfelices</p>
+</div>
+
+</section>
+
+<br>
+
+<a href="index.html" class="btn">← Volver</a>
+
+</body>
+</html>

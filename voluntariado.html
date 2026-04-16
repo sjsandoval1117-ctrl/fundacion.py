@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Voluntariado</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Voluntariado</h1>
+
+<form>
+
+<label for="nombre">Nombre *</label>
+<input type="text" id="nombre" name="nombre" required>
+
+<label for="apellido">Apellido *</label>
+<input type="text" id="apellido" name="apellido" required>
+
+<label for="ayuda">¿Cómo quieres ayudar? *</label>
+<select id="ayuda" name="ayuda" required>
+  <option value="">Selecciona una opción</option>
+  <option value="cuidado">Cuidado de animales</option>
+  <option value="limpieza">Limpieza</option>
+  <option value="eventos">Eventos</option>
+</select>
+
+<label for="mensaje">Mensaje</label>
+<textarea id="mensaje" name="mensaje"></textarea>
+
+<button type="submit" class="btn">Enviar</button>
+
+</form>
+
+<br>
+
+<a href="index.html" class="btn">← Volver</a>
+
+</body>
+</html>
