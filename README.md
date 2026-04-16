@@ -61,10 +61,19 @@ El sitio es completamente responsivo y se adapta a diferentes dispositivos media
 ![Voluntariado](IMAGENES/<img width="1310" height="618" alt="voluntariado" src="https://github.com/user-attachments/assets/47cf0861-b2af-4ce6-b8e9-ea81ae887464" />)
 
 ### Figma
+
 ![figma/INICIO](IMAGENES/<img width="391" height="514" alt="Captura desde 2026-04-16 12-37-36" src="https://github.com/user-attachments/assets/f54091cc-4b2a-4001-8b80-1c727a6fa200" />)
+
+
 ![figma/SOBRE NOSOTROS](IMAGENES/<img width="372" height="513" alt="Captura desde 2026-04-16 12-37-49" src="https://github.com/user-attachments/assets/8437e44c-d825-4244-8fb9-990892e620f8" />)
+
+
 ![figma/ANIMALES DISPONIBLES](IMAGENES/<img width="335" height="398" alt="Captura desde 2026-04-16 13-14-41" src="https://github.com/user-attachments/assets/4c1b2d8d-f614-4646-ae81-a4ec9c63a675" />)
+
+
 ![figma/CONTACTANOS](IMAGENES/<img width="341" height="435" alt="Captura desde 2026-04-16 12-38-12" src="https://github.com/user-attachments/assets/e10ff7bf-8e1c-4e60-a8a5-10c6ca7d3747" />)
+
+
 ![figma/GALERIA](IMAGENES/<img width="342" height="451" alt="Captura desde 2026-04-16 13-05-44" src="https://github.com/user-attachments/assets/af5ced11-7a0b-4765-b7bb-314d5d94ee73" />)
 
 ---
