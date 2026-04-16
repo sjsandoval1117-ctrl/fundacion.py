@@ -6,8 +6,8 @@ Patitas Felices es una página web estática creada con HTML y CSS. Su objetivo 
 ---
 
 ## Tecnologías utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ---
 
